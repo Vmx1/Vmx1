@@ -1,13 +1,18 @@
+# 💫 About Me:
+## 🚀 About Me<br><br>Hi, I'm **Mahmoud** — a passionate Python developer and aspiring SaaS entrepreneur.<br><br>💻 I specialize in building automation tools, web scrapers, desktop applications, and practical software solutions that solve real-world problems.<br><br>🎯 My goal is to create profitable SaaS products and become a professional freelancer.<br><br>---<br><br>- 🔭 I’m currently working on **PriceRadar** — a smart price comparison platform that helps users find the best prices across online stores.<br>- 🌱 I’m currently learning **Advanced Python, SaaS Development, JavaScript, and Web Development**.<br>- 👯 I’m looking to collaborate on **Python automation tools, SaaS products, and web scraping projects**.<br>- 🤝 I’m looking for help with **Scaling SaaS products, marketing, and startup growth**.<br>- 💬 Ask me about **Python, Selenium, Web Scraping, SQLite, OOP, Automation, and Desktop Applications**.<br>- ⚡ Fun fact: **I love turning ideas into real products that solve problems and generate recurring income.**<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Languages<br>- Python<br>- SQL<br>- JavaScript (Learning)<br><br>### Python Libraries & Tools<br>- Selenium<br>- SeleniumBase<br>- BeautifulSoup<br>- Requests<br>- SQLite3<br>- CustomTkinter<br>- Asyncio<br>- Threading<br><br>### Development Tools<br>- Git & GitHub<br>- Linux<br>- VS Code<br><br>---<br><br>## 📌 Current Goals<br><br>- Build successful SaaS products<br>- Master full-stack web development<br>- Learn cybersecurity and AI development<br><br>---
 
-I'm a passionate Python developer with a keen interest in creating automated solutions and tools. I specialize in web scraping, building desktop applications, and creating seamless integrations using Selenium, BeautifulSoup, Requests, and other Python libraries. I also have a strong focus on creating user-friendly graphical interfaces using CustomTkinter and Flet.
 
-I love exploring the latest tech, learning new frameworks like Flask and Django, and developing applications that can simplify complex tasks. I take pride in writing clean, maintainable code and am always eager to improve my skills and tackle new challenges.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vmx1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vmx1&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vmx1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Skills:
-Python (Web scraping, Data analysis, Automation)
-CustomTkinter & CTk (Desktop Applications)
-Flask & Django (Web Development)
-Google API & OAuth (Authentication, API Integration)
-Selenium, BeautifulSoup, Requests (Web Scraping)
-Git & GitHub (Version Control)
-I'm also exploring game development using Unreal Engine and have a deep interest in VFX. Whether it's creating practical tools for real-world problems or diving into creative projects, I’m always excited to bring ideas to life with code.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vmx1&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=vmx1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
